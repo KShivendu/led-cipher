@@ -20,5 +20,8 @@ make faulty
 python attack.py fdd6fb9845f81456 51b8ab31169ac161 0123456789abcdef
 ```
 
-### Team members :
-Aastha Asthana, Aniket Raj, Kumar Shivendu
+### Video link :
+https://drive.google.com/file/d/1bGkLXy-3l4Z1mqLGYawIQmdDFPpnnOhT/view
+
+### Team :
+`Crypton` Members : Aastha Asthana, Aniket Raj, Kumar Shivendu
